@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there, I'm Monwar Khan 👋
 
-<!--
-**MonwarK/MonwarK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A **Full Stack Developer** passionate about building clean, user-focused, and scalable web & mobile experiences.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [my portfolio](https://monwar-portfolio-2025.vercel.app/)
+- 🌱 Currently exploring **Expo**, **Framer Motion**, and performance tuning in React Native
+- ✍️ I write and share thoughts through my portfolio’s blog (coming soon!)
+- 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Node.js`, `Framer Motion`, `Firebase`
+- 📫 Reach me at: [monwar259@gmail.com](mailto:monwar259@gmail.com)
+- 🧠 Explore all my work: [monwar-portfolio-2025.vercel.app](https://monwar-portfolio-2025.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools I Use
+
+```ts
+Languages:      TypeScript, JavaScript, HTML, CSS, C#, Java  
+Frameworks:     React, Next.js, React Native, Node.js, .NET  
+Databases:      Firebase, Supabase, SQL  
+Tools & Design: Framer Motion, Figma, Git, VS Code  
+Auth & Infra:   Clerk, Stripe, Supabase Auth, Vercel  
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monwarkhan&show_icons=true&theme=radical" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=monwarkhan&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monwarkhan&layout=compact&theme=radical" width="48%" /> </p>
